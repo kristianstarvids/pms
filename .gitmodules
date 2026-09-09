@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/kristianstarvids/pmsapi.git
+[submodule "web"]
+	path = web
+	url = https://github.com/kristianstarvids/pmsweb.git
